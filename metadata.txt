@@ -1,0 +1,24 @@
+[general]
+name=plugin
+qgisMinimumVersion=3.00
+email=jmillsapengineer@gmail.com
+author=John Millsap
+description=description
+about=long description
+version=0.1
+repository=repo
+
+category=RasterVectorDatabaseMeshWeb
+changelog=changelog
+experimental=True
+deprecated=False
+tags=tag,tag1
+homepage=homepage
+tracker=tracker
+qgisMaximumVersion=3.99
+icon=icon
+plugin_dependencies=plugin1,plugin2
+server=False
+hasProcessingProvider=False
+
+
