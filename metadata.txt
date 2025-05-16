@@ -1,10 +1,10 @@
 [general]
-name=Flyout Docks
+name=plugin
 qgisMinimumVersion=3.00
 email=jmillsapengineer@gmail.com
 author=John Millsap
-description=Enables all dock widgets to be shown or hidden with the click of a button
-about=Displays a named button for each dock widget, allowing the user to show or hide each in turn
+description=description
+about=long description
 version=0.1
 repository=repo
 
