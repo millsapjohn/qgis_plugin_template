@@ -1,5 +1,5 @@
 [general]
-name=Flyout Docks
+name=Flyout Menus
 qgisMinimumVersion=3.00
 email=jmillsapengineer@gmail.com
 author=John Millsap
