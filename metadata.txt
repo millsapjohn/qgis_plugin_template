@@ -1,10 +1,10 @@
 [general]
-name=plugin
+name=Flyout Menus
 qgisMinimumVersion=3.00
 email=jmillsapengineer@gmail.com
 author=John Millsap
-description=description
-about=long description
+description=Enables all dock widgets to be shown or hidden with the click of a button
+about=Displays a named button for each dock widget, allowing the user to show or hide each in turn
 version=0.1
 repository=repo
 
@@ -17,7 +17,6 @@ homepage=homepage
 tracker=tracker
 qgisMaximumVersion=3.99
 icon=icon
-plugin_dependencies=plugin1,plugin2
 server=False
 hasProcessingProvider=False
 
