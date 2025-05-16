@@ -4,7 +4,7 @@ from qgis.PyQt.QtCore import Qt
 from qgis.utils import iface
 import os
 
-class FlyoutMenusPlugin:
+class FlyoutDocksPlugin:
     def __init__(self, iface):
         self.iface = iface
         self.instance = QgsApplication.instance()
