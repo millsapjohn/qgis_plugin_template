@@ -1,4 +1,4 @@
-from .flyoutmenus import FlyoutMenusPlugin
+from .flyoutdocks import FlyoutDocksPlugin
 
 def ClassFactory(iface):
-    return ParamHistPlugin(iface)
+    return FlyoutDocksPlugin(iface)
