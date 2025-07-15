@@ -18,7 +18,6 @@ homepage=homepage
 tracker=tracker
 qgisMaximumVersion=3.99
 icon=icon
-plugin_dependencies=plugin1,plugin2
 server=False
 hasProcessingProvider=False
 
